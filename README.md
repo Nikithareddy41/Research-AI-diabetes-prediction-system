@@ -25,4 +25,4 @@ This project predicts diabetes risk using patient medical and lifestyle data usi
 - Diabetes risk prediction (High / Low)
 
 ## 📌 Author
-Nikitha Reddy
+J.Nikitha Reddy
